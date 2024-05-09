@@ -1,0 +1,44 @@
+body{
+    background-color:floralwhite ;
+}
+
+.ortala{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: black;
+}
+
+.d1{
+    height: 200px;
+    width: 200px;
+    background-color: darkred;
+    border-radius: 100px;
+}
+
+.d2{
+    height: 200px;
+    width: 200px;
+    background-color:blue;
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+.butonlar {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.b1, .b2 {
+    margin: 0 50px; 
+    width: 100px;
+    height: 40px;
+}
+
+
